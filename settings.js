@@ -1,11 +1,11 @@
   //project_name : XPLOADER
-// @author : TYLOR
+// @author : DEMO
 // @youtube : https://www.youtube.com/@heyits_tylor
 // @instagram : heyits_tylor
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : +94741703038
 //*
 //* 
 //=================================================//
@@ -16,14 +16,14 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //=================================================//
 global.SESSION_ID = process.env.SESSION_ID || '' 
-//Enter your Xploader session id here; must start with XPLOADER-BOT:~
+//Enter your Xploader session id here; must start with XPLOADER-BOT:~XPLOADER-BOT:~CzpSUYwJ#xe827TKf4WOgmDtkshpfpvHnkCp-pxnX51MzfWaO6bg
 
 //=================================================//
-global.botname = process.env.BOT_NAME || '᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT' 
+global.botname = process.env.BOT_NAME || 'Demo bot' 
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '94741703038' 
 //Type your main number here
 
 //=================================================//
@@ -32,17 +32,17 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', 
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'DEMO' 
 //Type your name here
 
 //=================================================//
 global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
 
 //=================================================//
-global.wm = process.env.GL_WM || "©᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT"
+global.wm = process.env.GL_WM || "©DEMO ᗷOT"
 
 //=================================================//
-global.packname = process.env.STICKER_PACK_NAME || "᙭ᑭᒪOᗩᗪᗴᖇ" 
+global.packname = process.env.STICKER_PACK_NAME || "DEmO" 
 //The sticker pack name
 
 //=================================================//
