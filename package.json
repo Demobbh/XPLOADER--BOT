@@ -1,7 +1,7 @@
 {
-  "name": "XPLOADER-BOT",
+  "name": "DENO-BOT",
   "version": "1.0.0",
-  "description": "The best Whatsapp bot",
+  "description": "DEMO IS MY OWNER",
   "main": "run.js",
   "engines": {
       "node": ">= 21.x",
