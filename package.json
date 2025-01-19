@@ -1,7 +1,7 @@
 {
-  "name": "XPLOADER-BOT",
+  "name": "DESH-BOT",
   "version": "1.0.0",
-  "description": "The best Whatsapp bot",
+  "description": "I AM DESH'S Whatsapp bot",
   "main": "run.js",
   "engines": {
       "node": ">= 21.x",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tylor",
+  "author": "DESH",
   "license": "MIT",
   "dependencies": {
         "@whiskeysockets/baileys": "^6.7.9",
